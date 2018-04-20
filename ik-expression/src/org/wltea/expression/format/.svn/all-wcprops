@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/49/trunk/ik-expression/src/org/wltea/expression/format
+END
+Element.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/13/trunk/ik-expression/src/org/wltea/expression/format/Element.java
+END
+ExpressionParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/13/trunk/ik-expression/src/org/wltea/expression/format/ExpressionParser.java
+END
+ExpressionReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/36/trunk/ik-expression/src/org/wltea/expression/format/ExpressionReader.java
+END
+FormatException.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/13/trunk/ik-expression/src/org/wltea/expression/format/FormatException.java
+END

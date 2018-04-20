@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/39/trunk/ik-expression/src/org/wltea/expression/op/define
+END
+Op_NOT.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/39/trunk/ik-expression/src/org/wltea/expression/op/define/Op_NOT.java
+END
+Op_LE.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/39/trunk/ik-expression/src/org/wltea/expression/op/define/Op_LE.java
+END
+Op_AND.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/39/trunk/ik-expression/src/org/wltea/expression/op/define/Op_AND.java
+END
+Op_NG.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/39/trunk/ik-expression/src/org/wltea/expression/op/define/Op_NG.java
+END
+Op_EQ.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/39/trunk/ik-expression/src/org/wltea/expression/op/define/Op_EQ.java
+END
+Op_APPEND.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/39/trunk/ik-expression/src/org/wltea/expression/op/define/Op_APPEND.java
+END
+Op_GT.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/39/trunk/ik-expression/src/org/wltea/expression/op/define/Op_GT.java
+END
+Op_COLON.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/13/trunk/ik-expression/src/org/wltea/expression/op/define/Op_COLON.java
+END
+Op_QUES.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/13/trunk/ik-expression/src/org/wltea/expression/op/define/Op_QUES.java
+END
+Op_MUTI.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/39/trunk/ik-expression/src/org/wltea/expression/op/define/Op_MUTI.java
+END
+Op_LT.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/39/trunk/ik-expression/src/org/wltea/expression/op/define/Op_LT.java
+END
+Op_SELECT.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/39/trunk/ik-expression/src/org/wltea/expression/op/define/Op_SELECT.java
+END
+Op_MOD.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/39/trunk/ik-expression/src/org/wltea/expression/op/define/Op_MOD.java
+END
+Op_OR.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/39/trunk/ik-expression/src/org/wltea/expression/op/define/Op_OR.java
+END
+Op_DIV.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/39/trunk/ik-expression/src/org/wltea/expression/op/define/Op_DIV.java
+END
+Op_NEQ.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/39/trunk/ik-expression/src/org/wltea/expression/op/define/Op_NEQ.java
+END
+Op_PLUS.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/39/trunk/ik-expression/src/org/wltea/expression/op/define/Op_PLUS.java
+END
+Op_MINUS.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/39/trunk/ik-expression/src/org/wltea/expression/op/define/Op_MINUS.java
+END
+Op_GE.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/39/trunk/ik-expression/src/org/wltea/expression/op/define/Op_GE.java
+END

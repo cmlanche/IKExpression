@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/48/trunk/ik-expression/src/org/wltea/expression/test
+END
+VariableTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/48/trunk/ik-expression/src/org/wltea/expression/test/VariableTest.java
+END
+FunctionalityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/39/trunk/ik-expression/src/org/wltea/expression/test/FunctionalityTest.java
+END
+TestFunctions.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/45/trunk/ik-expression/src/org/wltea/expression/test/TestFunctions.java
+END
+IntegrationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/42/trunk/ik-expression/src/org/wltea/expression/test/IntegrationTest.java
+END
